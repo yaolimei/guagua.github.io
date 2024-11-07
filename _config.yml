@@ -1,7 +1,8 @@
 ---
 title: 靳若春
 baseurl: "/guagua.github.io"
-desc: A minimal blog for off-topic blog entries.
+desc: 助理研究员  
+国防科技大学
 about: 靳若春，国防科技大学计算机学院助理研究员，爱丁堡大学信息学博士（数据库方向），研究方向为数据库理论与系统、数据质量、大模型评测技术。近年来在SIGMOD、VLDB、ICDE、TODS等CCF-A类数据库顶级会议与期刊发表学术论文10篇，授权/申请专利6项，主持国自科青年基金项目、国家重点实验室课题。担任CCF数据库专委会执行委员、CCF软件工程专委会委员。主讲本科专业必修课《数据科学与大数据基础》。
 image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
 excerpt_separator: "<!-- more -->"
